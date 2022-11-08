@@ -1,5 +1,5 @@
 import html from './html.js'
-import contentTypes from './content-types.js'
+import contentTypes from './content-types.js' 
 import Scraper from './scraper.js'
 import { generateJSONResponse, generateErrorJSONResponse } from './json-response.js'
 
