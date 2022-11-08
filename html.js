@@ -1,4 +1,4 @@
-export default `<!doctype html>
+export default `<!doctype html> 
 <html lang="en" with-selection-styled>
   <head>
     <meta charset="utf-8">
